@@ -64,6 +64,7 @@ files under [FirmWare](FirmWare/) are separate immutable artifacts; see
 | [04_Immersive_block](examples/esp-idf/04_Immersive_block/) | Motion-driven LVGL block demo |
 | [05_Spec_Analyzer](examples/esp-idf/05_Spec_Analyzer/) | Microphone spectrum analyzer |
 | [06_videoplayer](examples/esp-idf/06_videoplayer/) | SD card video playback with audio |
+| [FirmWare](examples/esp-idf/FirmWare/) | Default ESP-Brookesia application UI |
 
 | Arduino example | Focus |
 | --- | --- |

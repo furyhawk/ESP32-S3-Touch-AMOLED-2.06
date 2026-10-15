@@ -62,6 +62,7 @@ Arduino 示例、源码构建固件包、出厂恢复固件、原理图和产品
 | [04_Immersive_block](examples/esp-idf/04_Immersive_block/) | 运动驱动的 LVGL 方块演示 |
 | [05_Spec_Analyzer](examples/esp-idf/05_Spec_Analyzer/) | 麦克风频谱分析仪 |
 | [06_videoplayer](examples/esp-idf/06_videoplayer/) | 带音频的 SD 卡视频播放 |
+| [FirmWare](examples/esp-idf/FirmWare/) | 默认 ESP-Brookesia 应用界面 |
 
 | Arduino 示例 | 重点 |
 | --- | --- |
